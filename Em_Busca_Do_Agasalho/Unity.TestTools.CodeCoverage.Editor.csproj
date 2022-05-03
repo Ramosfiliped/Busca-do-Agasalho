@@ -328,10 +328,10 @@
         <HintPath>C:\Program Files\Unity 2021.2.19f1\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.UWP.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\Faculdade\21.2\Computação gráfica\Em busca do agasalho\Busca-do-Agasalho\Em_Busca_Do_Agasalho\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>D:\Faculdade\21.2\Computação gráfica\Busca-do-Agasalho\Em_Busca_Do_Agasalho\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-        <HintPath>D:\Faculdade\21.2\Computação gráfica\Em busca do agasalho\Busca-do-Agasalho\Em_Busca_Do_Agasalho\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+        <HintPath>D:\Faculdade\21.2\Computação gráfica\Busca-do-Agasalho\Em_Busca_Do_Agasalho\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:\Program Files\Unity 2021.2.19f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
